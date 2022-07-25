@@ -1,0 +1,10 @@
+[package]
+name = "_01_02_why_async"
+version = "0.1.0"
+edition = "2021"
+
+
+[lib]
+
+[dev-dependencies]
+futures = "0.3"
